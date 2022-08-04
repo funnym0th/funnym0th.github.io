@@ -7,6 +7,8 @@ h1 {
     font-family: 'Segoe UI';
     font-size: 20px;
     text-align: center;
+    padding: 30px;
+    background-color: dimgray;
 }
 p1 {
     color: white;
