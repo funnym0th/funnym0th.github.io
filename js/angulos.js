@@ -1,4 +1,4 @@
-document.getElementById("angulos").onclick = AngulosTriangulo;
+document.getElementById("angulos").onclick = do.AngulosTriangulo;
 
 function AngulosTriangulos
 
