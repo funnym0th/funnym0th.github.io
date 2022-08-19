@@ -1,6 +1,6 @@
 document.getElementById("angulos").onclick = do.AngulosTriangulo;
 
-function AngulosTriangulos
+function AngulosTriangulos () {
 
 let Cateto = { 
     Alpha:prompt("Cateto A: "), 
@@ -15,3 +15,4 @@ let Angulo = {
 
 Angulo.Beta = 90 - Angulo.Alpha
 alert("El angulo alpha es: " + Math.round(Angulo.Alpha) + ", y el angulo beta es: " + Math.round(Angulo.Beta) + ".");
+}
