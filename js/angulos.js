@@ -1,6 +1,6 @@
 document.getElementById("angulos").onclick = AngulosTriangulo;
 
-function AngulosTriangulos() {
+function AngulosTriangulo() {
 
 let Cateto = { 
     Alpha:prompt("Cateto A: "), 
