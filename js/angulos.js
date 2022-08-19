@@ -1,5 +1,3 @@
-
-
 function AngulosTriangulo() {
 
 let Cateto = { 
