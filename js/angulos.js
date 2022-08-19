@@ -10,4 +10,4 @@ let Angulo = {
 }
 
 Angulo.Beta = 90 - Angulo.Alpha
-alert("El angulo alpha es: " + Angulo.Alpha.toFixed(1) + ", y el angulo beta es: " + Angulo.Beta.toFixed(1) + ".");
+alert("El angulo alpha es: " + Math.round(Angulo.Alpha) + ", y el angulo beta es: " + Math.round(Angulo.Beta) + ".");
