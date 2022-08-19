@@ -8,8 +8,10 @@ body {
     font-size: 20px;
     padding: 4px;
     height: fit-content;
-    background-color: dimgray;
 }
-p1 {
-    color: white;
+.math_button {
+	background-color: #0081A7;
+	font-size: 12px;
+	padding: 12px 28px;
+	border-radius: 8px;
 }
