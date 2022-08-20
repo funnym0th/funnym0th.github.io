@@ -1,20 +1,11 @@
 body {
-	color:#000000;
+	color:black;
 }
 
-
-.math {
-    color: #0081A7;
+h1 {
+    color: white;
     font-family: 'Segoe UI';
     font-size: 20px;
     padding: 4px;
     height: fit-content;
-    background-color: #0081A7;
-}
-.math_button {
-	background-color: #0081A7;
-	font-size: 12px;
-	padding: 12px 28px;
-	border-radius: 8px;
-	color: #0081A7;
 }
