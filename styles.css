@@ -9,8 +9,8 @@ body {
     padding: 10px;
     align-content: center;
     text-align: center;
-    height: auto;
-    background-size: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
     border-radius: 25px;
     background-color: darkcyan;
 }
