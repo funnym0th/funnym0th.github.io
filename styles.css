@@ -7,7 +7,7 @@ body {
     font-family: 'Segoe UI';
     font-size: 20px;
     padding: 10px;
-    height: fit-content;
+    height: auto;
     border-radius: 25px;
     background-color: darkcyan;
 }
