@@ -7,8 +7,10 @@ body {
     font-family: 'Segoe UI';
     font-size: 20px;
     padding: 10px;
-    align-items: center;
+    align-content: center;
+    text-align: center;
     height: auto;
+    width: auto;
     border-radius: 25px;
     background-color: darkcyan;
 }
