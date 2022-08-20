@@ -12,5 +12,9 @@ body {
     margin-left: 550px;
     margin-right: 550px;
     border-radius: 25px;
-    background-color: darkcyan;
+    background-color: #008b8b;
+}
+#math:hover {
+    background-color: #005858;
+    text-decoration: underline;
 }
