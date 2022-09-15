@@ -14,3 +14,5 @@ let Angulo = {
 Angulo.Beta = 90 - Angulo.Alpha
 alert("El angulo alpha es: " + Math.round(Angulo.Alpha) + ", y el angulo beta es: " + Math.round(Angulo.Beta) + ".");
 }
+
+document.getElementById("math").onclick = AngulosTriangulo() 
